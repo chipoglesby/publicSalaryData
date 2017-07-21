@@ -1,6 +1,6 @@
 # United States Public Salary Data
 
-I'm attempting to collect public salary data from all 50 states, past or present
+I'm attempting to collect [public salary data from all 50 states](states.md), past or present
 and I need your help. If you would like to contribute, feel free to create a
 pull request and add the information you have.
 
