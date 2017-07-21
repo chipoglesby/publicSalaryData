@@ -10,7 +10,8 @@ Florida:
 Georgia: [open.georgia.gov](http://www.open.georgia.gov/index.html)  
 Hawaii:  
 Idaho:  
-Illinois Indiana:  
+Illinois:
+Indiana:  
 Iowa:  
 Kansas:  
 Kentucky:  
