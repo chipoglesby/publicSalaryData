@@ -1,7 +1,6 @@
 ## Links
-
 | State | Link | Government | Year Updated |
-|---|---|---|
+|:--------------------------|:-----------------------|---------:|-----:|
 |Alabama | | | |
 |Alaska | | | |
 |Arizona | | | |
