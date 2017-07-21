@@ -14,3 +14,11 @@ You can add the following fields:
 If you are interested in writing a scraper that will help pull data from these
 websites, feel free to open an issue and a pull request and we'll figure out
 our next steps.
+
+## Proposed steps:
+
+1. Collect links for all states
+2. Collect data in a repeatable process for collection and parsing
+3. E.T.L data
+4. Exploratory Data Analysis of data
+5. Visualize and publish
