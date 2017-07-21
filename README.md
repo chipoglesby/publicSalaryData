@@ -7,7 +7,7 @@ Colorado:
 Connecticut:  
 Delaware:  
 Florida:  
-Georgia:  
+Georgia: [open.georgia.gov](http://www.open.georgia.gov/index.html)  
 Hawaii:  
 Idaho:  
 Illinois Indiana:  
@@ -34,7 +34,7 @@ Ohio:
 Oklahoma:  
 Oregon:  
 Pennsylvania Rhode Island:  
-South Carolina:  
+South Carolina: [admin.sc.gov](http://www.admin.sc.gov/accountability-portal/state-salaries?a=37&j=0)
 South Dakota:  
 Tennessee:  
 Texas:  
