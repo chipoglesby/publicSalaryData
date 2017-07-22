@@ -5,7 +5,7 @@
 |Alaska | | | |
 |Arizona | | | |
 |Arkansas | | | |
-|California | | | |
+|California |[transparentcalifornia.com](http://transparentcalifornia.com/) | FALSE |2016 |
 |Colorado | | | |
 |Connecticut | | | |
 |Delaware | | | |
@@ -27,7 +27,7 @@
 |Mississippi | | | |
 |Missouri | | | |
 |Montana Nebraska | | | |
-|Nevada | | | |
+|Nevada |[transparentnevada.com/](http://transparentnevada.com/) | FALSE | 2016 |
 |New Hampshire | | | |
 |New Jersey | | | |
 |New Mexico | | | |
