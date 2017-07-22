@@ -26,7 +26,8 @@
 |Minnesota | | | |
 |Mississippi | | | |
 |Missouri | | | |
-|Montana Nebraska | | | |
+|Montana | | | |
+|Nebraska | | | |
 |Nevada |[transparentnevada.com/](http://transparentnevada.com/) | FALSE | 2016 |
 |New Hampshire | | | |
 |New Jersey | | | |
