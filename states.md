@@ -2,7 +2,7 @@
 | State | Link | Government | Year Updated |
 |:--------------------------|:-----------------------|---------:|-----:|
 |Alabama | | | |
-|Alaska |  [2010,](http://publicpayroll.alaskapolicyforum.org/) [2015 - alaskapolicyforum.org](http://alaskapolicyforum.org/2017/04/state-of-alaska-payroll-for-fiscal-year-2015-just-released/)| FALSE | 2010, 2015 |
+|Alaska | [alaskapolicyforum.org](http://alaskapolicyforum.org/2017/04/state-of-alaska-payroll-for-fiscal-year-2015-just-released/)| FALSE | 2015 |
 |Arizona | | | |
 |Arkansas | | | |
 |California |[transparentcalifornia.com](http://transparentcalifornia.com/) | FALSE |2016 |
