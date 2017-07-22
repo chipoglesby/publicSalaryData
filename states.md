@@ -37,7 +37,8 @@
 |Ohio | | | |
 |Oklahoma | | | |
 |Oregon | | | |
-|Pennsylvania Rhode Island | | | |
+|Pennsylvania | [publicsource.org](http://publicsource.org/pennsylvania-2016-state-salaries)| FALSE | 2016 |
+|Rhode Island | | | |
 |South Carolina |[admin.sc.gov](http://www.admin.sc.gov/accountability-portal/state-salaries?a=37&j=0) | TRUE | 2017 |
 |South Dakota | | | |
 |Tennessee | | | |
