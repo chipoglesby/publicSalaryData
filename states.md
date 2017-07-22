@@ -17,7 +17,7 @@
 |Indiana | | | |
 |Iowa | [desmoinesregister.com](http://db.desmoinesregister.com/state-salaries-for-iowa) | FALSE | 2017 |
 |Kansas | | | |
-|Kentucky | | | |
+|Kentucky | [transparency.ky.gov](http://transparency.ky.gov/search/Pages/SalarySearch.aspx#/salary)| TRUE | 2017 |
 |Louisiana | | | |
 |Maine | | | |
 |Maryland | | | |
