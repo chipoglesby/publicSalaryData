@@ -15,10 +15,6 @@ If you are interested in writing a scraper that will help pull data from these
 websites, feel free to open an issue and a pull request and we'll figure out
 our next steps.
 
-## Proposed steps:
+## Want to Contribute?
 
-1. Collect links for all states
-2. Collect data in a repeatable process for collection and parsing
-3. E.T.L data
-4. Exploratory Data Analysis of data
-5. Visualize and publish
+If you want to contribute to this project, please [visit the wiki to see how you can get started](https://github.com/chipoglesby/publicSalaryData/wiki/How-To-Contribute).
