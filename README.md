@@ -17,4 +17,4 @@ our next steps.
 
 ## Want to Contribute?
 
-If you want to contribute to this project, please [visit the wiki to see how you can get started](https://github.com/chipoglesby/publicSalaryData/wiki/How-To-Contribute).
+If you want to contribute to this project, please [visit the wiki to see how you can get started](https://github.com/chipoglesby/publicSalaryData/wiki).
