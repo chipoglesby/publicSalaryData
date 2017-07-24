@@ -12,7 +12,7 @@
 |Florida | [salaries.myflorida.com](http://salaries.myflorida.com/)| true | 2017 | true| csv | true| false |
 |Georgia| [open.georgia.gov](http://www.open.georgia.gov/index.html)  | true | 2017 | true | csv | unknown| false|
 |Hawaii | [civilbeat.org](http://www.civilbeat.org/2016/01/civil-beat-database-of-public-employee-salaries/)| false| 2016 | false | na | unknown | false |
-|Idaho |[transparent.idaho.gov](http://transparent.idaho.gov/Pages/transhome.aspx) | true | 2017 | true | na | true | false |
+|Idaho |[transparent.idaho.gov](http://transparent.idaho.gov/Pages/transhome.aspx) | true | 2017 | true | xlxs | true | false |
 |Indiana | | | | | | |  |
 |Iowa | [desmoinesregister.com](http://db.desmoinesregister.com/state-salaries-for-iowa) | false | 2017 |  false | na | unknown|false|
 |Kansas | | | | | | |  |
@@ -21,7 +21,7 @@
 |Maine | | | | | | |  |
 |Maryland | | | | | | |  |
 |Massachusetts | | | | | | |  |
-|Michigan | | | | | | |  |
+|Michigan |[mackinac.org](https://www.mackinac.org/salaries) | false|2016 |false | na | unknown | false  |
 |Minnesota | [mn.gov](https://mn.gov/mmb/transparency-mn/payrolldata.jsp)| true| 2016 | true| csv | unknown |false|
 |Mississippi | | | | |  |  |  |
 |Missouri | | | | |  |  |  |
