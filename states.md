@@ -45,7 +45,7 @@
 |Texas | [texastribune.org](https://salaries.texastribune.org/)| false | 2017 | false | na | unknown | false |
 |Utah |[utahsright.com](http://www.utahsright.com/salaries.php) |false |2017 |false |na| unknown | false |
 |Vermont |[vttransparency.org](http://vttransparency.org/index.cfm?section=all&pg=State_Compensation) |false |2016 | false| na|true | false |
-|Virginia | [data.richmond.com](http://data.richmond.com/salaries/) |2016 |false |false |na |true |false  |
+|Virginia | [data.richmond.com](http://data.richmond.com/salaries/) |false |2016 |false |na |true |false  |
 |Washington | [wa.gov](http://fiscal.wa.gov/salaries.aspx) | true | 2016 | true | xlsx | unknown | false |
 |West Virginia |[vista.wvsao.gov](https://vista.wvsao.gov/) |true |2016 |false |na | unknown|false  |
 |Wisconsin |[host.madison.com](http://host.madison.com/wsj/news/local/education/university/database-university-of-wisconsin-employee-salaries/article_7cefa25f-13bf-53df-9f16-db3d35f39884.html?appSession=35305740354082531615040890085960732274919309412071105297727055394839142316305215799182512237805277401397613450859733218465510094) | false |2016 |flase | |na | true |false |
