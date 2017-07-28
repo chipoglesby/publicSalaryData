@@ -13,6 +13,7 @@
 |Georgia| [open.georgia.gov](http://www.open.georgia.gov/index.html)  | true | 2017 | true | csv | unknown| false|
 |Hawaii | [civilbeat.org](http://www.civilbeat.org/2016/01/civil-beat-database-of-public-employee-salaries/)| false| 2016 | false | na | unknown | false |
 |Idaho |[transparent.idaho.gov](http://transparent.idaho.gov/Pages/transhome.aspx) | true | 2017 | true | xlxs | true | false |
+|Illinos |[ledger.illinoiscomptroller.com](https://ledger.illinoiscomptroller.com/salary-database/employee-salary-database/) | false | 2017 | false | na | true | false |
 |Indiana |[gateway.ifionline.org](https://gateway.ifionline.org/report_builder/Default2.aspx?rptType=employComp&rptVer=a) | true|2016 | false|na |true | false |
 |Iowa | [desmoinesregister.com](http://db.desmoinesregister.com/state-salaries-for-iowa) | false | 2017 |  false | na | unknown|false|
 |Kansas | [kansasopengov.org](http://www.kansasopengov.org/kog/databank#report_id=4)| false|2016 |true |csv |true | false |
